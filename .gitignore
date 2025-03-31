@@ -1,0 +1,6 @@
+# Bỏ qua file môi trường chứa API key
+.env
+
+# Bỏ qua thư mục ảo của Python
+venv/
+__pycache__/
